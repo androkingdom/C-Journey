@@ -2,7 +2,7 @@
 
 ## Overview
 
-In C programming, variables are used to store data that can be used and manipulated throughout a program. Format specifiers are used in functions like `printf` to define the type of data being output.
+In C programming, ***variables*** are used to store data that can be used and manipulated throughout a program, Whereas ***Format specifiers*** are used in functions like `printf` to define the type of data being output.
 
 ## Code Explanation
 
