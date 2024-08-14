@@ -13,8 +13,8 @@ This repository contains C programming practice code that I have worked on as pa
 
 The practice code provided in this repository is based on tutorials from the following sources:
 
-- [CodeWithHarry](https://www.youtube.com/watch?v=aZb0iu4uGwA) - Tutorial on basic C programming concepts.
-- [CodeWithHarry](https://www.codewithharry.com/notes/) - Additional practice sets, Notes and exercises.
+- [CodeWithHarry](https://www.youtube.com/watch?v=aZb0iu4uGwA) - Video Tutorial on C programming.
+- [CodeWithHarry](https://www.codewithharry.com/notes/) - Additional practice sets, Notes, Handbook, etc.
 
 ## License
 
