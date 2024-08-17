@@ -6,7 +6,6 @@
 // => f(3) = f(2) + 3
 // => f(n) = f(n-1) + n
 
-
 int sum(int);
 
 int sum(int n){
