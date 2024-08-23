@@ -1,8 +1,16 @@
 #include <stdio.h> 
 
 int main(){
-    // Create an array of size 3 x 10 containing multiplication tables of the numbers 2,7 and 9 respectively.
-    int table_of[] = {2, 7, 9};
+    // Repeat problem q_07 for a custom input given by the user
+    int table_of[3];
+    for (int numbers = 0; numbers < 3; numbers++)
+    {
+        int number;
+        printf("Enter number %d:", numbers+1); 
+        scanf("%d", &number);
+        table_of[numbers] = number;
+    }
+    
     int Tables_Collection[3][10];
     for (int i = 0; i < 3; i++){
         for (int j = 0; j < 10; j++){
@@ -19,7 +27,5 @@ int main(){
         }
         
     }
-    
-    
     return 0;
 }
