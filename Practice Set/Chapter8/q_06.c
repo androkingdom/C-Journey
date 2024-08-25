@@ -9,7 +9,7 @@ void encrypt(char a[]){
     
 }
 int main(){
-    char code_me[] = "Andro@1234";
+    char code_me[] = "Kanha mujhe pasword de";
     printf("Normal String - %s\n", code_me);
     encrypt(code_me);
     printf("Code String - %s\n", code_me);

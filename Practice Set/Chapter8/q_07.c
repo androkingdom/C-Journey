@@ -9,7 +9,7 @@ void decrypt(char a[]){
     
 }
 int main(){
-    char decode_me[] = "BoespA2345";
+    char decode_me[] = "Lboib!nvkif!qbtxpse!ef";
     printf("Code String - %s\n", decode_me);
     decrypt(decode_me);
     printf("Normal String - %s\n", decode_me);
