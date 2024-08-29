@@ -1,0 +1,1 @@
+In C, file I/O is managed with functions from <stdio.h>. You open files with fopen(), perform read/write operations with fscanf() or fprintf(), and close the file with fclose() to ensure proper data handling.
